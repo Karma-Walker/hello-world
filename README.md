@@ -1,3 +1,6 @@
 # hello-world
 first coding hopefully
-I am trying a new way to code
+I need to highlight ==these words==
+## Hello-welcome-to-the-new-world
+*does this really work?*
+**woah**
